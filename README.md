@@ -1,6 +1,14 @@
-# V0-kirigaml_bed
-## RGB lights for kirigaml.
+# <p align="center">V0-Kirigaml_bed</p>
 
+<p align="center">
+  <img src="/images/effect.gif?raw=true" />
+</p>  
+
+# <p align="center">`Installation and Wiring`</p>
+
+![Installation Diagram.png](/images/Installation%20Diagram.png)  
+
+# <p align="center">`RGB lights for kirigaml.`</p>
 ### The klipper-led_effect plugin is required.  
 ### Installation is as follows: Use an SSH connection to enter the command  
 ```Bash
